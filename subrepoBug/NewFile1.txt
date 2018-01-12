@@ -1,3 +1,5 @@
 This is a new file I just 
 added to the subrepo via
-Clien1
+Client1
+
+Added some additional info to subrepo
