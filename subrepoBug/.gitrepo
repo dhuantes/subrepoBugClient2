@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:dhuantes/subrepoBug.git
 	branch = master
-	commit = 75709e2d915183de29381a5aed59e44f24aa5463
-	parent = 112e81580dff982342ac9f967227bf9a7fd44398
+	commit = 25be7987fb2dc9df20e0986039a18c509c9f5e2f
+	parent = e43bea0979dc87124855d2fd6efad94715083768
 	method = merge
 	cmdver = 0.4.0
